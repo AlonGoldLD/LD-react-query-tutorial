@@ -3,17 +3,20 @@
     {
       "id": 1,
       "title": "first-todo",
-      "description": "first-todo-description"
+      "description": "first-todo-description",
+      "checked": false
     },
     {
       "id": 2,
       "title": "second-todo",
-      "description": "second-todo-description"
+      "description": "second-todo-description",
+      "checked": false
     },
     {
       "id": 3,
       "title": "third-todo",
-      "description": "third-todo-description"
+      "description": "third-todo-description",
+      "checked": false
     }
   ]
 }
