@@ -1,8 +1,11 @@
-function App() {
+import CreateNewTodo from "./components/CreateNewTodo"
+import Todos from "./components/Todos"
 
+function App() {
   return (
     <>
-     app
+      <CreateNewTodo />
+      <Todos />
     </>
   )
 }
